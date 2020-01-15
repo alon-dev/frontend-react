@@ -2,3 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Weather App
 This is a soon to be weather app, made by Alon Engel, 2020
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
